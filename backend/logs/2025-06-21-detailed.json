@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2025-06-21T17:40:28.393Z",
+    "method": "PUT",
+    "url": "/api/users/685595cbdd06f9205240a958",
+    "statusCode": 400,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Last name is required",
+    "requestBody": "{\"name.first\":\"fasikaaaaaaa\",\"name.middle\":\"Mekonen\",\"name.last\":\"Mekonen\",\"phone\":\"0535317356\",\"email\":\"fasikain827@gmail.com\",\"image.url\":\"https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png\",\"image.alt\":\"User profile image\",\"address.country\":\"ישראל\",\"address.city\":\"Netanya\",\"address.street\":\"netanya\",\"address.houseNumber\":2,\"address.zip\":\"123456\",\"address.state\":\"ישראל\",\"name\":{\"first\":\"fasika\"}}"
+  },
+  {
+    "timestamp": "2025-06-21T17:40:48.482Z",
+    "method": "PUT",
+    "url": "/api/users/685595cbdd06f9205240a958",
+    "statusCode": 400,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Last name is required",
+    "requestBody": "{\"name.first\":\"fasikaaaaaaa\",\"name.middle\":\"Mekonen\",\"name.last\":\"Mekonen\",\"phone\":\"0535317356\",\"email\":\"fasikain827@gmail.com\",\"image.url\":\"https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png\",\"image.alt\":\"User profile image\",\"address.country\":\"ישראל\",\"address.city\":\"Netanya\",\"address.street\":\"netanya\",\"address.houseNumber\":2,\"address.zip\":\"123456\",\"address.state\":\"ישראל\",\"name\":{\"first\":\"fasika\"}}"
+  },
+  {
+    "timestamp": "2025-06-21T17:44:28.136Z",
+    "method": "PUT",
+    "url": "/api/users/685595cbdd06f9205240a958",
+    "statusCode": 400,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Last name is required",
+    "requestBody": "{\"name.first\":\"fasikaaaaaaa\",\"name.middle\":\"Mekonen\",\"name.last\":\"Mekonen\",\"phone\":\"0535317356\",\"email\":\"fasikain827@gmail.com\",\"image.url\":\"https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png\",\"image.alt\":\"User profile image\",\"address.country\":\"ישראל\",\"address.city\":\"Netanya\",\"address.street\":\"netanya\",\"address.houseNumber\":2,\"address.zip\":\"123456\",\"address.state\":\"ישראל\",\"name\":{\"first\":\"fasika\"}}"
+  },
+  {
+    "timestamp": "2025-06-21T18:12:37.539Z",
+    "method": "POST",
+    "url": "/api/cards",
+    "statusCode": 400,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Email already exists",
+    "requestBody": "{\"address\":{\"zip\":\"123456\",\"houseNumber\":2,\"street\":\"netanya\",\"city\":\"Netanya\",\"country\":\"ישראל\",\"state\":\"ישראל\"},\"image\":{\"url\":\"https://t4.ftcdn.net/jpg/02/44/16/37/360_F_244163733_ErNyvrHfOJcRlHd7t3doQcs4bEgclAfq.jpg\",\"alt\":\"csdcsdc\"},\"web\":\"https://makeup.fr/\",\"email\":\"alamayo274@gmail.com\",\"phone\":\"0535317356\",\"description\":\"sdcsdcsdc\",\"subtitle\":\" zx zx zx \",\"title\":\"zxczcxxzzx z\"}"
+  },
+  {
+    "timestamp": "2025-06-21T18:14:12.621Z",
+    "method": "PATCH",
+    "url": "/api/users/685595cbdd06f9205240a958",
+    "statusCode": 400,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "\"isBusiness\" is required",
+    "requestBody": "{\"currentPassword\":\"Fasika##123456\",\"newPassword\":\"Hana##123456\"}"
+  },
+  {
+    "timestamp": "2025-06-21T18:19:01.860Z",
+    "method": "PATCH",
+    "url": "/api/users/685595cbdd06f9205240a958",
+    "statusCode": 400,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "\"isBusiness\" is required",
+    "requestBody": "{\"currentPassword\":\"Fasika##123456\",\"newPassword\":\"Hana##123456\"}"
+  },
+  {
+    "timestamp": "2025-06-21T18:21:53.997Z",
+    "method": "PATCH",
+    "url": "/api/users/685595cbdd06f9205240a958",
+    "statusCode": 400,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "\"isBusiness\" is required",
+    "requestBody": "{\"currentPassword\":\"Fasika##123456\",\"newPassword\":\"Hana##123456\"}"
+  },
+  {
+    "timestamp": "2025-06-21T18:23:54.278Z",
+    "method": "PATCH",
+    "url": "/api/users/685595cbdd06f9205240a958",
+    "statusCode": 400,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "\"isBusiness\" is required",
+    "requestBody": "{\"currentPassword\":\"Fasika##123456\",\"newPassword\":\"Hana##123456\"}"
+  }
+]

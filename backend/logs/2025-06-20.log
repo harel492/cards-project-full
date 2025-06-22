@@ -1,0 +1,22 @@
+[2025-06-20T16:12:59.256Z] POST /api/cards - Status: 400 - Error: Email already exists
+[2025-06-20T17:34:13.337Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:34:13.375Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:34:21.172Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:34:21.190Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:34:23.159Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:34:23.168Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:34:58.780Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:34:58.789Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:47:22.828Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:47:22.846Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:48:20.322Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:48:20.333Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:48:54.136Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:48:54.143Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:49:04.875Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:49:04.883Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:49:54.994Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:49:54.999Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:50:00.076Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T17:50:00.087Z] GET /api/cards/user/685595cbdd06f9205240a958 - Status: 404 - Error: Route not found - /api/cards/user/685595cbdd06f9205240a958
+[2025-06-20T18:12:51.471Z] PUT /api/users/685595cbdd06f9205240a958 - Status: 400 - Error: "address.country" is not allowed to be empty, "address.city" is not allowed to be empty, "address.street" is not allowed to be empty

@@ -1,0 +1,222 @@
+[
+  {
+    "timestamp": "2025-06-20T16:12:59.256Z",
+    "method": "POST",
+    "url": "/api/cards",
+    "statusCode": 400,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Email already exists",
+    "requestBody": "{\"address\":{\"zip\":\"123456\",\"houseNumber\":2,\"street\":\"netanya\",\"city\":\"Netanya\",\"country\":\"ישראל\",\"state\":\"xasxasx\"},\"image\":{\"url\":\"https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg\",\"alt\":\"asxasxasx\"},\"web\":\"https://www.almayo-mek.com/\",\"email\":\"alamayo274@gmail.com\",\"phone\":\"0535317356\",\"description\":\"asxasxas\",\"subtitle\":\"xasxasxasx\",\"title\":\"aasxasxa\"}"
+  },
+  {
+    "timestamp": "2025-06-20T17:34:13.337Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:34:13.375Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:34:21.172Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:34:21.190Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:34:23.159Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:34:23.168Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:34:58.780Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:34:58.789Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:47:22.828Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:47:22.846Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:48:20.322Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:48:20.333Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:48:54.136Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:48:54.143Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:49:04.875Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:49:04.883Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:49:54.994Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:49:54.999Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:50:00.076Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T17:50:00.087Z",
+    "method": "GET",
+    "url": "/api/cards/user/685595cbdd06f9205240a958",
+    "statusCode": 404,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "Route not found - /api/cards/user/685595cbdd06f9205240a958",
+    "requestBody": "{}"
+  },
+  {
+    "timestamp": "2025-06-20T18:12:51.471Z",
+    "method": "PUT",
+    "url": "/api/users/685595cbdd06f9205240a958",
+    "statusCode": 400,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "ip": "::1",
+    "error": "\"address.country\" is not allowed to be empty, \"address.city\" is not allowed to be empty, \"address.street\" is not allowed to be empty",
+    "requestBody": "{\"name\":{\"first\":\"fasikaaa\",\"middle\":\"Mekonen\",\"last\":\"Mekonen\"},\"phone\":\"0535317356\",\"email\":\"fasikain827@gmail.com\",\"image\":{\"url\":\"\",\"alt\":\"\"},\"address\":{\"country\":\"\",\"city\":\"\",\"street\":\"\",\"houseNumber\":1,\"zip\":\"\",\"state\":\"\"}}"
+  }
+]

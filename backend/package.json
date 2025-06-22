@@ -1,0 +1,41 @@
+{
+  "name": "bcard-backend",
+  "version": "1.0.0",
+  "description": "Backend API for BCard business cards management system",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "jwt",
+    "business-cards",
+    "rest-api"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@hookform/resolvers": "^5.1.1",
+    "axios": "^1.10.0",
+    "bcryptjs": "^2.4.3",
+    "chalk": "^4.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "jsonwebtoken": "^9.0.2",
+    "jwt-decode": "^4.0.0",
+    "lucide-react": "^0.518.0",
+    "mongoose": "^7.5.0",
+    "morgan": "^1.10.0",
+    "react-hook-form": "^7.58.1",
+    "react-hot-toast": "^2.5.2",
+    "react-router-dom": "^7.6.2",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

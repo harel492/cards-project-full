@@ -1,0 +1,181 @@
+/* בסיס לעיצוב מודרני, כולל תמיכה ב-dark/light mode */
+:root {
+  --color-bg-light: #f7f7fa;
+  --color-bg-dark: #181a1b;
+  --color-text-light: #222;
+  --color-text-dark: #f7f7fa;
+  --color-primary: #3b82f6;
+  --color-secondary: #64748b;
+  --color-accent: #f59e42;
+  --color-error: #ef4444;
+  --color-success: #22c55e;
+  --border-radius: 10px;
+  --transition: 0.2s;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+  background: var(--color-bg-light);
+  color: var(--color-text-light);
+  transition: background 0.2s, color 0.2s;
+}
+
+body.dark {
+  background: var(--color-bg-dark);
+  color: var(--color-text-dark);
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+a:hover {
+  color: var(--color-accent);
+}
+
+button {
+  background: var(--color-primary);
+  color: #fff;
+  border: none;
+  border-radius: var(--border-radius);
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background var(--transition);
+}
+button:hover {
+  background: var(--color-secondary);
+}
+button:disabled {
+  background: var(--color-secondary);
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+input, select, textarea {
+  border: 1px solid #ccc;
+  border-radius: var(--border-radius);
+  padding: 0.5em;
+  font-size: 1em;
+  margin-bottom: 1em;
+  width: 100%;
+  box-sizing: border-box;
+  background: #fff;
+  color: var(--color-text-light);
+  transition: border var(--transition);
+}
+body.dark input, body.dark select, body.dark textarea {
+  background: #23272f;
+  color: var(--color-text-dark);
+  border: 1px solid #444;
+}
+
+label {
+  font-weight: 500;
+  margin-bottom: 0.3em;
+  display: block;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.card {
+  background: #fff;
+  border-radius: var(--border-radius);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  transition: box-shadow var(--transition);
+}
+.card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+}
+body.dark .card {
+  background: #23272f;
+}
+
+.flex {
+  display: flex;
+  gap: 1rem;
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-row {
+  flex-direction: row;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.items-center {
+  align-items: center;
+}
+
+/* הודעות שגיאה/הצלחה */
+.error {
+  color: var(--color-error);
+  font-size: 0.95em;
+  margin-top: -0.5em;
+  margin-bottom: 1em;
+}
+.success {
+  color: var(--color-success);
+  font-size: 0.95em;
+  margin-top: -0.5em;
+  margin-bottom: 1em;
+}
+
+/* מצב טעינה */
+.loading {
+  text-align: center;
+  font-size: 1.2em;
+  color: var(--color-secondary);
+  margin: 2em 0;
+}
+
+/* כפתור מצב כהה/בהיר */
+.theme-toggle {
+  background: none;
+  border: none;
+  color: var(--color-primary);
+  font-size: 1.5em;
+  cursor: pointer;
+  margin-left: 1em;
+  transition: color var(--transition);
+}
+.theme-toggle:hover {
+  color: var(--color-accent);
+}
+
+/* Loading spinner animation */
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Responsive grid */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  header {
+    padding: 0.5rem 1rem;
+  }
+  
+  main {
+    padding: 1rem 0;
+  }
+  
+  /* Mobile grid adjustments */
+  .card {
+    margin-bottom: 1rem;
+  }
+}
